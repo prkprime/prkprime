@@ -2,7 +2,7 @@
 
 I'm Pratik Gorade, a 4th year B.Tech student from [Dr. Viswanath Karad MIT World Peace University, Pune](https://mitwpu.edu.in).
 
-I am also a Part of [The S.C.R.I.P.T group](https://thescriptgroup.in) where we help each other to learn and develop new things
+I'm Part of [The S.C.R.I.P.T group](https://thescriptgroup.in) where we help each other to learn and develop new things
 
 We also help other students in learning new technologies by conducting various workshops for free.
 
