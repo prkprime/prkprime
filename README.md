@@ -10,7 +10,7 @@ Final Year Computer Science Undergrad student at MIT-WPU, Pune, India
 
 Contact/follow me:
 
-- Gmail - [pratikgorade0@gmail.com](mailto:pratikgorade0@gmail.com)
+- Gmail - [me@prkprime.dev](mailto:me@prkprime.dev)
 - Telegram - [@PrkPrime](https://t.me/PrkPrime)
 - Twitter - [@pratik_gorade](https://twitter.com/pratik_gorade)
 - LinkedIn - [Pratik Gorade](https://www.linkedin.com/in/pratikgorade)
